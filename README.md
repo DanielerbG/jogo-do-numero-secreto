@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2> 📖 Sobre</h2>
-<p>O Jogo do Número Secreto é uma aplicação web simples desenvolvida com *HTML, CSS e JavaScript*, utilizada para praticar conceitos de lógica de programação.
+<p>O Jogo do Número Secreto é uma aplicação web simples desenvolvida com HTML, CSS e JavaScript, utilizada para praticar conceitos de lógica de programação.
 
 O objetivo do jogo é descobrir qual número foi sorteado pelo sistema dentro de um intervalo definido. A cada tentativa, o jogo informa se o número secreto é *maior ou menor* que o número digitado, ajudando o jogador a chegar na resposta correta.
 
